@@ -1,0 +1,42 @@
+{
+	"token": "bot api token goes here",
+	"server": {
+		"id": 1,
+		"name": "Server Name Goes Here",
+		"owners": ["authorized users"],
+		"category_channel_pairings": {
+			"math.AG": "algebraic-geometry",
+			"math.AT": "algebraic-topology",
+			"math.AP": "analysis-of-pdes",
+			"math.CT": "category-theory",
+			"math.CA": "classical-analysis-and-odes",
+			"math.CO": "combinatorics",
+			"math.AC": "commutative-algebra",
+			"math.CV": "complex-variables",
+			"math.DG": "differential-geometry",
+			"math.DS": "dynamical-systems",
+			"math.FA": "functional-analysis",
+			"math.GM": "general-mathematics",
+			"math.GN": "general-topology",
+			"math.GT": "geometric-topology",
+			"math.GR": "group-theory",
+			"math.HO": "history-and-overview",
+			"math.IT": "information-theory",
+			"math.KT": "k-theory-and-homology",
+			"math.LO": "logic",
+			"math.MP": "mathematical-physics",
+			"math.MG": "metric-geometry",
+			"math.NT": "number-theory",
+			"math.NA": "numerical-analysis",
+			"math.OA": "operator-algebras",
+			"math.OC": "optimization-and-control",
+			"math.PR": "probability",
+			"math.QA": "quantum-algebra",
+			"math.RT": "representation-theory",
+			"math.RA": "rings-and-algebras",
+			"math.SP": "spectral-theory",
+			"math.ST": "statistics-theory",
+			"math.SG": "sympletic geometry"
+		}
+	}
+}
